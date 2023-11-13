@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group
+        android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_inicio"
+            android:icon="@drawable/nav_inicio"
+            android:title="Inicio"/>
+
+        <item
+            android:id="@+id/nav_settings"
+            android:icon="@drawable/nav_settings"
+            android:title="Configuración"/>
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/nav_info"
+            android:title="Información"/>
+
+
+    </group>
+
+    <item
+        android:title="">
+
+        <menu>
+
+            <item
+                android:id="@+id/nav_iniciar_sesion"
+                android:icon="@drawable/nav_start"
+                android:title="Iniciar Sesión"/>
+
+            <item
+                android:id="@+id/nav_salir"
+                android:icon="@drawable/nav_out"
+                android:title="Cerrar sesión"/>
+        </menu>
+
+    </item>
+
+</menu>

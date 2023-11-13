@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "391488115777",
+    "project_id": "animeaffinity-50079",
+    "storage_bucket": "animeaffinity-50079.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:391488115777:android:156029ccb5b0147afb62c0",
+        "android_client_info": {
+          "package_name": "com.santotomas.animeaffinity"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIHE4_baDYItbtxdC6ZqlODMZLu3uMDTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
